@@ -1,0 +1,3 @@
+enum Toggle {
+    case isAvaliationEnabled
+}

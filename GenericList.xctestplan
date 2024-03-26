@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "AFAC8D11-FA79-4AD9-BF15-5D1D6D9B8E96",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:GenericList.xcodeproj",
+      "identifier" : "52D890D72BAE171A000D3DFC",
+      "name" : "GenericList"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:GenericList.xcodeproj",
+        "identifier" : "52D890ED2BAE171C000D3DFC",
+        "name" : "GenericListTests"
+      }
+    }
+  ],
+  "version" : 1
+}

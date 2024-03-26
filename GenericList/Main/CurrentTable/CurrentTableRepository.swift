@@ -1,0 +1,2 @@
+
+typealias CurrentTableRepository = TableRepository<CurrentResourceModel, CurrentTableResourceModel>
